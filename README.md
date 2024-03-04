@@ -1,4 +1,7 @@
 # Alert-O-Monitor
+“Alert-O-Monitor” is a one-stop solution for managing end-to-end flow of Early Warning Signals.
+We are not only focusing on “Alert Generation”, but we are also doing “Alert Monitoring”, “Alert Resolution” as well as “Alert Prediction” giving a complete 360-degree comprehensive solution which NONE of the Banks have implemented till now. 
+
 # Data Engineering
 1. Create Microsoft Lakehouse named AOM_Lakehouse.
 2. Under the Data Engineering folder, we have Raw Files sub-folder which has all the raw-data files and these files can be uploaded into the lakehouse files and create tables on top of it.
