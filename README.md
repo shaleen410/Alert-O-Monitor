@@ -11,7 +11,8 @@ We are not only focusing on “Alert Generation”, but we are also doing “Ale
 
 # Data Science 
 1.  Under the Data Science folder, two notebooks named loan_prediction_new and product_recommendations can be run.
-2.  For the voice analytics notebook, we have a pre-requisite that 
+2.  For the voice analytics notebook, we have a pre-requisite to create a storage account key and openAI credentials are required.
+3.  Place the audio files present in the Audio Files in the azure storage account gen2 and run the notebook named
 
 # Data Modeling
 1. Create a new semantic model on top of the lakehouse.
