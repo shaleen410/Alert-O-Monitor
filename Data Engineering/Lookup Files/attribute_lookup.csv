@@ -1,0 +1,65 @@
+﻿alert_type,Id,Attribute_Name,Risk Mitigation
+External,24,External_Rating_Alert,Seek written clarification of reason of downgrade/ Issue Recall Notice to Borrower
+External,25,CRILC_Defaulter_List,Issue Recall Notice to Borrower
+External,26,Wilful_Defaulter_List,Issue Recall Notice to Borrower
+External,27,Regulatory_News_Alert,Seek clarity on company's strategy to react to Regulatory Changes
+External,28,Statutory_Dues_Delay,"Seek written clarification on reasons why statutory dues are delayed and submit ""No Dues Certificate"""
+External,29,Vendor_Loss_Alert,Seek clarification on reasons of loss of Vendors (Upstream/Downstream)
+External,30,Penalty_Alert,"Seek written clarification on reasons why penalty is levied and submit ""No Dues Certificate"""
+External,31,Business_Expansion_Alert,Seek clarification on reasons of Business Expansion and Sources of Funds for the same
+External,32,Competition_Alert,Seek clarity on strategies to combat increasing competition
+External,33,Low_Market_Demand,Submit revised plan of Marketing/Distribution of products/services
+External,34,Employee_Attrittion,Seek reasons for increasing employee attrition
+External,35,Exchange_Filing_Alert,Seek written clarification of Exchange filing related issues
+External,36,Cross_Border_Alert,Submit revised Sales Strategy for Import/Export of its products
+External,37,Value_Chain_Alert,Submit revised list of Vendors (Upstream/Downstream)
+External,38,Personal_Loans_Promoters,"Demand Closure of other Loans &submit """"No Dues Certificate"
+Financial,39,Current_Ratio,Debt Restructuring (Decrease ROI charged to customer/ Increase loan repayment period)
+Financial,40,Debt_to_Equity_Ratio,Debt Restructuring (Decrease ROI charged to customer/ Increase loan repayment period)
+Financial,41,TOLORTNW_Ratio,Debt Restructuring (Decrease ROI charged to customer/ Increase loan repayment period)
+Financial,42,Quick_Ratio,Debt Restructuring (Decrease ROI charged to customer/ Increase loan repayment period)
+Financial,43,Debt_Service_Coverage_Ratio_DSCR,Debt Restructuring (Decrease ROI charged to customer/ Increase loan repayment period)
+Financial,44,Adjusted_TNW,Ask Borrower to infuse Additional Capital and submit relevant Auditor Certificate
+Financial,45,Interest_Coverage_Ratio_ICR,Debt Restructuring (Decrease ROI charged to customer/ Increase loan repayment period)
+Financial,46,Net_Sales,Seek clarification on decline in Sales and strategy to improve Sales/ Issue Recall notice
+Financial,47,Net_Sales_to_Total_Assets_Ratio,Seek clarification on decline in Sales and strategy to improve Sales/ Issue Recall notice
+Financial,48,Total_Debt_to_EBIDTA,Seek clarification on decline in Sales and strategy to improve Sales/ Issue Recall notice
+Financial,49,Unhedged_Foreign_Currency_Exposure,Seek Clarification
+Financial,50,ROE_,Ask Borrower to infuse Additional Capital and submit relevant Auditor Certificate
+Financial,51,Net_Cash_Accrual_to_Net_Sales,Seek clarification on decline in Sales and strategy to improve Sales/ Issue Recall notice
+Financial,52,Net_Profit_Margin,Seek Clarification on decline in profitability
+Financial,53,Days_Sales_in_Inventory,Better Inventory Management
+Financial,54,Days_Sales_in_Account_Receivables,Better Inventory Management
+Internal,16,Auditor_Report_Discrepancies,Ask Borrower to rectify irregularities and submit compliance report from Auditor
+Internal,17,Internal_Fraud_Alert,Seek clarification on fraud allegations/ issue recall notice
+Internal,18,Internal_Dispute,Seek clarification on internal dispute/ issue recall notice
+Internal,19,Change_in_Statutory_Auditors,Seek clarification on frequent change in Statutory Auditors
+Internal,20,Resignation_Key_Personnel,Seek clarification/ Issue Recall Notice to Borrower
+Internal,21,Project_Sponsor_Withdrawal,Seek clarification/ Issue Recall Notice to Borrower
+Internal,22,Financial_Results_Announcement,Seek clarification on reasons of poor financial results
+Internal,23,Utility_Disruption,"Submit recent 6 months's Utility Bills (Electricity bill, Gas Bill , Water Tax etc.)"
+Operational,1,Renewal_Due_Date_days,Submit Audited Financial Statements for Renewal immediately
+Operational,2,COD_Date,Seek written clarification of delay in COD/ Issue Recall Notice
+Operational,3,Security_Perfection_Alert,Bank to create Security Perfection and submit Compliance to Bank's Central team
+Operational,4,Closure_Pending_Internal_Audit,Bank to submit Audit Closure Certificate to Bank's Central Team
+Operational,5,Closure_Pending_External_Audit,Bank to submit Audit Closure Certificate to Bank's Central Team
+Operational,6,Closure_Pending_Stock_Audit,Bank to submit Audit Closure Certificate to Bank's Central Team
+Operational,7,Closure_Pending_Revenue_Audit,Bank to submit Audit Closure Certificate to Bank's Central Team
+Operational,8,Delay_SS_Submission,Bank to write letter/ mail to Company's Stock Auditor to submit Stock Statement urgently
+Operational,9,Insurance_Alert,Seek immediate Insurance Coverage on uncovered portion of Assets under mortgage
+Operational,10,ROC_Filing_Date,Seek immediate filing of charges on ROC portal
+Operational,11,CERSAI_Registration_Date,Seek immediate filing of charges on CERSAI portal
+Operational,12,Release_Deed_Date,Bank to release property under Bank's possession/ mortgage
+Operational,13,Security_Value_Stock,Borrower to submit plans for Better Inventory Management / Ask borrower to increase Stock/Inventory
+Operational,14,Security_Value_Receivables,Borrower to submit plans for Better Inventory Management
+Operational,15,Collateral_Value,Ask Borrower to provide Additional Collateral Security
+Payments,64,DPD_Days_Past_Due,Demand immediate repayment of EMI/interest
+Payments,65,Count_Bills_Return,Seek written clarification
+Payments,66,Count_Cheque_Return_Outward,Seek written clarification
+Payments,67,Count_Cheque_Return_Inward,Seek written clarification
+Payments,68,Cash_Withdrawal_Alert,Seek written clarification on usage of funds
+Payments,69,Count_LC_Development,Seek written clarification
+Payments,70,Pay_In_Fund Diversion,Seek clarification and ask to route transactions back
+Payments,71,Count_SMA2_Last6months,Demand immediate repayment of EMI/interest
+Payments,72,Count_SMA1_Last6months,Demand immediate repayment of EMI/interest
+Payments,73,Pay_Out_Alert,Seek clarification and ask to route transactions back

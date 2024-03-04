@@ -1,0 +1,74 @@
+﻿Alert_Attribute,Comments,Alert_Type,High Impact,Low Impact,Medium Impact,Sum of SNO
+Adjusted_TNW,"",Financial,Dev >10%,Dev between 7% and 5%,Dev between 10% and 7%,6
+Assets_Coverage_Ratio_FACR,"",Financial,R <1.50,R between 2.0 and 2.5,R between 1.50 and 2.00,23
+Auditor_Report_Discrepancies,Discrepancies observed in Annual Report by Auditor Comments,Internal/ Management,"","","",51
+Business_Expansion_Alert,Has there been business expansion to areas outside core business/backward or forward integration,External,"","","",66
+Cash_Withdrawal_Alert,Single Day Cash Withdrawal > 10 lacs,Payments,>2,1,2,45
+CERSAI_Registration_Date,No. of days CERSAI registration in CERSAI portal is NOT created,Operational,>20,<15,<20 but >15,36
+Change_in_Statutory_Auditors,Has there been frequent change in statutory auditors (2 consecutive years)?,Internal/ Management,"","","",54
+Closure_Pending_External_Audit,No. of days External Audit observations are NOT closed,Operational,>20,<15,<20 but >15,30
+Closure_Pending_Internal_Audit,No. of days Internal Audit observations are NOT closed,Operational,>60,<30,<60 but >30,29
+Closure_Pending_Revenue_Audit,No. of days Revenue Audit observations are NOT closed,Operational,>20,<15,<20 but >15,32
+Closure_Pending_Stock_Audit,No. of days Stock Audit observations are NOT closed,Operational,>20,<15,<20 but >15,31
+COD_Date,COD - Commercial Operations Date i.e Start Date of Operations of Project,Operational,>90 days,Delay between 1 day to 30 days,Between 30 days to 90 days,27
+Collateral_Value,Deviation (decrease from sanctioned Collateral Value submitted),Operational,Dev >10%,Dev between 1% and 5%,Dev between 5% and 10%,40
+Competition_Alert,Is there a danger of Product/technology obsolescence or introduction of cheaper substitutes?,External,"","","",67
+Count_Bills_Return,No. of bills discounted returned in last 30 days,Payments,>2,1,2,42
+Count_Cheque_Return_Inward,No. of inward cheques returned in last 30 days,Payments,>2,1,2,44
+Count_Cheque_Return_Outward,No. of outward cheques returned in last 30 days,Payments,>2,1,2,43
+Count_LC_Devolvement,No. of times LC devolved in last 30 days,Payments,>2,1,2,46
+Count_SMA1_Last6months,No of times Account has turned SMA-1 in last 6 months,Payments,>2,1,2,49
+Count_SMA2_Last6months,No of times Account has turned SMA-2 in last 6 months,Payments,>2,1,2,48
+CRILC_Defaulter_List,Borrower reported as  Defaulter by other bank(s) in CRILC (Unstructured),External,"","","",60
+Cross_Border_Alert,News Crawling (Cross-border tensions impacting Company's Imports/Exports),External,"","","",71
+Current_Ratio,"",Financial,R < 1.0,R between 1.20 and 1.33,R between 1.0 and 1.20,1
+Days_Sales_in_Account_Receivables,"",Financial,Dev >20%,Dev between 10% and 5%,Dev between 20% and 10%,19
+Days_Sales_in_Gross_Current_Assets,"",Financial,Ab >210 days,Ab between 180 and 150 days,Ab between 210 and 180 days,20
+Days_Sales_in_Inventory,"",Financial,Dev >20%,Dev between 10% and 5%,Dev between 20% and 10%,18
+Debt_Service_Coverage_Ratio_DSCR,"",Financial,R <1.0,R between 1.25 and 1.5,R between 1.0 and 1.25,5
+Debt_to_Equity_Ratio,"",Financial,R < 2.0,R between 2.50 and 3.00,R between 2.0 and 2.50,2
+Delay_SS_Submission,Delay in submission of SS (Stock Statement) of a Month from the due i.e last day of the Month,Operational,>10 days,Delay between 1 day to 5 days,Between 5 days to 10 days,33
+DPD_Days_Past_Due,No of days interest not serviced,Payments,>60 but less than 90,<30,<60 but >30,41
+Employee_Attrittion,News Crawling (Is there increasing employee attrition at borrower end?),External,"","","",69
+Exchange_Filing_Alert,News Analysis through crawling of  various websites like  Stock exchange & SEBI filings available for listed entities,External,"","","",70
+External_Rating_Alert,Downgrade by 1 or 2 notches,External,"","","",59
+Financial_Results_Announcement,News Crawling (Decrease in numbers vis-à-vis Market Expectations/Industry Projections),Internal/ Management,"","","",57
+Fixed_Assets_Coverage_Ratio_FACR,"",Financial,R <1.50,R between 1.75 and 2.0,R between 1.50 and 1.75,22
+Insurance_Alert,Is the Property under Mortgage under-insured ?,Operational,Yes,"","",34
+Interest_Coverage_Ratio_ICR,"",Financial,R <1.50,R between 1.75 and 2.0,R between 1.50 and 1.75,7
+Internal_Dispute,News Crawling(Have there been disputes among Management/Promoters/JV Partners?),Internal/ Management,"","","",53
+Internal_Fraud_Alert,Whistleblower News/ Internal Fraud Detected; Has there been any indication of fraud?,Internal/ Management,"","","",52
+Low_Market_Demand,News Crawling (Is there high rejection of goods?),External,"","","",68
+Net_Cash_Accrual_to_Net_Sales,"",Financial,Dev <12%,Dev between 14% and 15%,Dev between 12% and 14%,16
+Net_Cash_Accrual_to_Net_Sales,"",Financial,Dev >20%,Dev between 10% and 5%,Dev between 20% and 10%,15
+Net_Profit Margin,"",Financial,Dev >20%,Dev between 10% and 5%,Dev between 20% and 10%,17
+Net_Sales,"",Financial,Dev >20%,Dev between 15% and 10%,Dev between 20% and 15%,8
+Net_Sales_to_Total_Assets_Ratio,"",Financial,R <0.70,R between 0.90 and 1.00,R between 0.70 and 0.90,9
+Operating_CF_Current Liabilities,"",Financial,Dev >12%,Dev between 7% and 4%,Dev between 12% and 7%,24
+Operating_CF_Total_Debt,"",Financial,Dev >10%,Dev between 7% and 4%,Dev between 10% and 7%,25
+Pay_In_Fund Diversion,If debits are revolving within Bank's Network to given number of payout counterparties and coming back to accounts of Promoter/Director/Company,Payments,>2,1,2,47
+Pay_Out_Alert,"No. of debits as ""Self Transfer"" to other Bank Accounts in last 30 days",Payments,>2,1,2,50
+Penalty_Alert,Has there been any raid or imposition of penalty by government agencies on the company,External,"","","",65
+Personal_Loans_Promoters,Loans taken by Directors/Promoters in Personal Capacity where Personal Guarantee is given,External,"","","",73
+Project_Sponsor_Withdrawal,News Crawling (Has the project Sponsor withdrawn from the Project ?),Internal/ Management,"","","",56
+Quick_Ratio,"",Financial,R < 1.0,R between 1.20 and 1.33,R between 1.0 and 1.20,4
+Regulatory_News_Alert,Regulatory News Impact by US Federal Reseve etc.,External,"","","",62
+Release_Deed_Date,No. of days CERSAI release in CERSAI portal is NOT created,Operational,>20,<15,<20 but >15,37
+Renewal_Due_Date,Non-submission of Audited Financial Statements for Renewal (Due from 11 months after Loan Sanction Date),Operational,>15 days,Delay between 1 day to 5 days,5 days to 15 days,26
+Resignation_Key_Personnel,News Crawling (Is there resignation of Key Personnel from the Company ?),Internal/ Management,"","","",55
+ROC_Filing_Date,No. of days ROC Charges in MCA website are NOT created,Operational,>20,<15,<20 but >15,35
+ROCE_%,"",Financial,P<12%,P between 14% and 15%,P between 12% and 14%,13
+ROE_%,"",Financial,P<5%,P between 7% and 8%,P between 5% and 7%,12
+RONW_%,"",Financial,P<10%,P between 14% and 15%,P between 10% and 14%,14
+Security_Perfection_Alert,"If NULL, then alert to be generated. It should be created within 15 days from date of sanction.",Operational,> 30 days,Between 15 to 20 days,Between 30 to 20 days,28
+Security_Value_Receivables,Deviation (decrease from recent A/c Receivables Statement submitted),Operational,Dev >15%,Dev between 5% and 10%,Dev between 15% and 10%,39
+Security_Value_Stock,Deviation (decrease from recent Stock Statement submitted),Operational,Dev >15%,Dev between 5% and 10%,Dev between 15% and 10%,38
+Statutory_Dues_Delay,"Like delay in Tax Filings, PF contribution, Central/State Tax Payments etc.",External,"","","",63
+Stock_Difference_March_with_ABS,"",Financial,Dev >20%,Dev between 10% and 5%,Dev between 20% and 10%,21
+TOL/TNW_Ratio,"",Financial,R < 3.0,R between 3.50 and 4.00,R between 3.0 and 3.50,3
+Total_Debt_to_EBIDTA,"",Financial,R < 2.0,R between 3.0 and 4.0,R between 2.0 and 3.0,10
+Unhedged_Foreign_Currency_Exposure,"",Financial,Dev >30%,Dev between 20% and 10%,Dev between 30% and 20%,11
+Utility_Disruption,News Crawling (Is there frequent utility disruption (e.g. power/water etc.) at borrower-end?),Internal/ Management,"","","",58
+Value_Chain_Alert,News Crawling (Unfavourable trends in borrower value chain (Upstream/Downstream Industries)),External,"","","",72
+Vendor_Loss_Alert,News Crawling (Major customer lost which was one contributing more than 10% to borrower sales),External,"","","",64
+Wilful_Defaulter_List,"Is The Borrower, Promoters/Director/Associates/ Group Companies in the list of defaulters ?",External,"","","",61

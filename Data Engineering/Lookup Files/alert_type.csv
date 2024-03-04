@@ -1,0 +1,6 @@
+﻿Alertypeid,AlertType
+1,Operational
+2,Financial
+3,Payments
+4,Internal
+5,External
