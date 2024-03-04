@@ -1,0 +1,13 @@
+﻿id,Company_Name,Promoters_Name,Alert_Type,Alert_Category,Alert_Date,Keywords_used_in_News_Crawling,News_Link,News_Headline
+1,Abott Laboratories,Robert B. Ford,High Impact,External,23rd Jan. 2024,criminal; investigation; Abbott; warning,https://www.bbc.com/news/world-us-canada-64347165,US investigating baby formula plant after national shortage
+2,X Corp,Elon Musk,High Impact,External,6th Oct. 2023,Regulator; Musk; sue; probe,https://www.bbc.com/news/business-67024538,Regulator sues Musk to force testimony in X probe
+3,Tesco,Ken Murphy,No Impact,External,6th Oct. 2023,Tesco; lower; prices,https://www.bbc.com/news/business-66932287,"Tesco doing all it can to lower prices, boss says"
+4,TikTok,Shou Zi Chew,High Impact,External,4th Oct. 2023,TikTok; shuts; ban,https://www.bbc.com/news/business-67002545,TikTok: Social media app shuts shop after Indonesia ban
+5,Prada,Andrea Guerra,No Impact,External,3rd Oct. 2023,Prada,https://www.bbc.com/news/science-environment-67022619,Prada to design Nasa's new Moon suit
+6,Netflix,Reed Hastings,Medium Impact,External,6th Oct. 2023,Netflix; prices; raise,https://www.theverge.com/2023/10/3/23901315/netflix-subscription-price-raise-wga-strike,Netflix is planning to raise prices... Again
+7,Boohoo,John Lyttle,Medium Impact,External,6th Oct. 2023,Boohoo; slash; cut back,https://www.bbc.com/news/business-66992862,Boohoo slashes sales forecast as shoppers cut back
+8,John Lewis,Sharon White,Low Impact,External,6th Oct. 2023,John Lewis; step down,https://www.bbc.com/news/business-66981035,John Lewis boss to step down after five years
+9,Frasers Group,Mike Ashley,Medium Impact,External,6th Oct. 2023,Mike Ashley; sell; Shein,https://www.bbc.com/news/business-66836670,Mike Ashley firm in talks to sell Missguided to Shein
+10,Patisserie Valerie,James Fleming,High Impact,External,14th Sept. 2023,Patisserie Valerie; fraud; collapse;,https://www.bbc.com/news/business-66800002,Patisserie Valerie: Four face fraud charges over collapse
+11,Forza Motorsport,Dan Greenwalt,No Impact,External,6th Oct. 2023,Forza Motorsport,https://www.theverge.com/23905255/forza-motorsport-launch-date-first-impressions,Forza Motorsport looks and feels like Forza but with an RPG hiding under the hood
+12,Activision Blizzard,Bobby Kotick,High Impact,External,6th Oct. 2023,"Acquisition, Closing, Shut Down, Deal",https://www.theverge.com/2023/10/6/23905946/microsoft-activision-blizzard-deal-finalization-timing-cma,Microsoft eyes closing its giant Activision Blizzard deal next week

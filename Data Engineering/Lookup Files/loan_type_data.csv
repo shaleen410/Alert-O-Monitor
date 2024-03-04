@@ -1,0 +1,33 @@
+﻿loan_id,Parameters,Description
+Loan ID-1,Loan Type,Term Loan
+Loan ID-1,Loan Purpose,Commercial
+Loan ID-1,Loan Limit,500000000
+Loan ID-1,O/s Exposure,476900500
+Loan ID-1,ROI,0.0825
+Loan ID-1,Overdue Amount,4260328
+Loan ID-1,Days Past Due,38
+Loan ID-1,NPA Date,31.03.2024
+Loan ID-2,Loan Type,Overdraft
+Loan ID-2,Loan Purpose,Commercial
+Loan ID-2,Loan Limit,20000000
+Loan ID-2,O/s Exposure,18250000
+Loan ID-2,ROI,0.1125
+Loan ID-2,Overdue Amount,0
+Loan ID-2,Days Past Due,0
+Loan ID-2,NPA Date,-
+Loan ID-3,Loan Type,Cash Credit
+Loan ID-3,Loan Purpose,Commercial
+Loan ID-3,Loan Limit,35000000
+Loan ID-3,O/s Exposure,19200000
+Loan ID-3,ROI,0.0725
+Loan ID-3,Overdue Amount,0
+Loan ID-3,Days Past Due,0
+Loan ID-3,NPA Date,-
+Loan ID-4,Loan Type,Term Loan
+Loan ID-4,Loan Purpose,Equipment Finance
+Loan ID-4,Loan Limit,5000000
+Loan ID-4,O/s Exposure,3750000
+Loan ID-4,ROI,0.1075
+Loan ID-4,Overdue Amount,50761
+Loan ID-4,Days Past Due,7
+Loan ID-4,NPA Date,31.03.2024
